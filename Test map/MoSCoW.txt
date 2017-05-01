@@ -1,0 +1,6 @@
+MoSCoW is een manier van prioriteiten stellen.
+
+M - Must haves (minimaal)
+S - Should haves (Gewenst maar niet minimaal nodig)
+C - Could haves (Mits er tijd is)
+W - Wont haves(toekomst)
